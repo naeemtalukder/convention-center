@@ -13,3 +13,8 @@ body{
 #p-item{
     top: -2rem;
 }
+/* footer section */
+footer{
+    background-color: #0B0D17;
+    height: 200px;
+}
