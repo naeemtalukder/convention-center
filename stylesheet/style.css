@@ -3,6 +3,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.slider-img{
+    background-size: cover;
+}
 #p-item{
-    top: -1.5rem;
+    top: -2rem;
 }
