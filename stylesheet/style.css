@@ -3,9 +3,13 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+/* Slider Section */
 .slider-img{
     background-size: cover;
 }
+
+/* Packages Section */
 #p-item{
     top: -2rem;
 }
