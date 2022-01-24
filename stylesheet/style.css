@@ -12,6 +12,12 @@ body{
 #p-item{
     top: -2rem;
 }
+/* Login Section */
+section .login{
+    background-image: url(img/town.jpg);
+    background-size: cover;
+    background-position: center;
+}
 /* footer section */
 footer{
     background-color: #0B0D17;
